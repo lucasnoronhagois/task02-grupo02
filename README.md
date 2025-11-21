@@ -10,7 +10,7 @@ git rebase -i HEAD~2
 ```
 Irá abrir o editor VIM para alteração dos commits.
 
-<img src="/readme-resources/squash.png" alt="Editor VIM">
+<img src="readme-resources/squash.png" alt="Editor VIM">
 
 Tendo adicionado a anotação `squash`, basta salvar, alterar a mensagem do commit e confirmar. 
 
